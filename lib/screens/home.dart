@@ -175,7 +175,7 @@ class _HomeState extends State<Home> {
             minWidth: 25,
           ),
           border: InputBorder.none,
-          hintText: 'search',
+          hintText: 'Search Note ',
           hintStyle: TextStyle(color: tdGrey),
         ),
       ),
